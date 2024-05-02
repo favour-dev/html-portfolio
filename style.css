@@ -1,0 +1,25 @@
+/* body {
+    font-family: "Space Mono", Arial, serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #4d4d4d;
+}
+header{
+    display: block;
+}
+#fh5co-header, .fh5co-cover {
+    background-color: transparent;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    height: 600px;
+    width: 100%;
+}
+.container{
+    color: #fff;
+    background: #FF9000;
+} */
+.me{
+    border: 20px;
+}
